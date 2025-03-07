@@ -1,9 +1,9 @@
 # RDP
 HAI TOOLSV9  INI MERUPAKAN FUTURE KEREN 
 
-git clone 
+git clone https://github.com/hozoowhitehat/RDP
 
-cd
+cd RDP
 
 #memulai 
 
